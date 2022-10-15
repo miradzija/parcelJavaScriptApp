@@ -85,7 +85,7 @@
 129C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\lib\binary-search.js133103006888814048 0
 125C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\events\src\types.js133103006889484653 0
 130C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\lib\fsevents-handler.js133103008165284278 0
-97C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\package.json133103019704922505 0
+97C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\package.json133103098028691949 0
 126C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-terser\src133103006886141615 1
 126C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\escape-string-regexp\license133103006885911408 0
 139C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-html\lib\HTMLPackager.js133103006885691205 0

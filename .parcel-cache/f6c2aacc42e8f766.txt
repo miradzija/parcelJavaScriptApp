@@ -1,8 +1,8 @@
-4362
+4369
 111C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\data133103006899518166 1
 139C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_to_consumable_array.mjs133103006899648280 0
 140C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml-parser\dist\location-tracker.d.ts133103006889194396 0
-105C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133103089105460361 0
+105C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133103113950973638 0
 139C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\node_modules\node-addon-api\index.js133103006890865907 0
 129C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\BM.js133103006897796595 0
 116C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\types\omap.js133103006890515595 0
@@ -14,7 +14,7 @@
 155C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133103006893893057 0
 129C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\KZ.js133103006903391615 0
 121C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\helpers.js133103006889814967 0
-89C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist133103089870866019 1
+89C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist133103113053016674 1
 139C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\electron-to-chromium\chromium-versions.js133103006885551087 0
 107C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\path-type133103006887392757 1
 113C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\forkify-flowchart-part-1.png132886955210000000 0
@@ -85,7 +85,7 @@
 129C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\source-map\lib\binary-search.js133103006888814048 0
 125C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\events\src\types.js133103006889484653 0
 130C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\chokidar\lib\fsevents-handler.js133103008165284278 0
-97C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\package.json133103019704922505 0
+97C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\package.json133103114632392795 0
 126C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-terser\src133103006886141615 1
 126C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\escape-string-regexp\license133103006885911408 0
 139C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-html\lib\HTMLPackager.js133103006885691205 0
@@ -1837,6 +1837,7 @@
 116C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dict\dict.txt133103006899838452 0
 153C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json133103006900338912 0
 134C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\serializer.test.js133103006899628262 0
+108C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\icons.c14567a0.svg133103090072391141 0
 117C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\escalade\index.d.ts133103006888713955 0
 116C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr\README.md133103006894663748 0
 184C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\package.json133103006898747463 0
@@ -2215,6 +2216,7 @@
 136C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\docs\010-introduction.md133103006896435362 0
 130C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\docs\030-config.md133103006897136001 0
 131C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\docs\040-presets.md133103006897436272 0
+107C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\logo.8a7af738.png133103090069553504 0
 127C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\src\Worker.js133103006895344373 0
 126C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\events\lib\errors.js133103006887893208 0
 131C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\docs\docs\050-modules.md133103006897606432 0
@@ -2689,7 +2691,7 @@
 116C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\color-name\LICENSE133103006885961460 0
 128C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\readFile.d.ts133103006894843913 0
 129C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\MV.js133103006903882068 0
-107C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js133103089870815968 0
+107C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js133103113052986650 0
 132C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\readFile.d.ts.map133103006892587488 0
 129C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\cosmiconfig\dist\types.d.ts.map133103006892972209 0
 149C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133103006903461687 0
@@ -3421,6 +3423,7 @@
 154C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-musl.node133103006898627368 0
 117C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\braces\CHANGELOG.md133103008165004016 0
 139C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\reporter-dev-server\src\templates133103006887012410 1
+112C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.987de634.css.map133103090072431181 0
 108C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\braces\lib133103008165234224 1
 112C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\braces\LICENSE133103008165094100 0
 114C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\braces\README.md133103008165124129 0
@@ -3644,6 +3647,7 @@
 148C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133103006891506501 0
 152C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133103006891726702 0
 162C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133103006891946896 0
+111C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.3a9d8272.js.map133103090072431181 0
 155C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133103006892107039 0
 169C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133103006893292502 0
 159C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133103006893512704 0
@@ -4358,6 +4362,9 @@
 111C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.cmd133103006910007633 0
 111C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.ps1133103006910007633 0
 113C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\terser.ps1133103006910007633 0
-111C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js.map133103089870866019 0
+110C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\favicon.76dd299c.png133103090068212276 0
+107C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.3a9d8272.js133103090072391141 0
+111C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js.map133103113053016674 0
+108C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.987de634.css133103090072391141 0
 108C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133103019710740912 0
-100C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.html133103089870856003 0
+100C:\Users\Zile\Desktop\JS course\complete-javascript-course-master\18-forkify\starter\dist\index.html133103090072391141 0
