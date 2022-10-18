@@ -539,8 +539,6 @@ var _webImmediateJs = require("core-js/modules/web.immediate.js"); // or this
 var _modelJs = require("./model.js");
 var _recipeViewJs = require("./views/recipeView.js");
 var _recipeViewJsDefault = parcelHelpers.interopDefault(_recipeViewJs);
-var _iconsSvg = require("../img/icons.svg");
-var _iconsSvgDefault = parcelHelpers.interopDefault(_iconsSvg);
 var _runtime = require("regenerator-runtime/runtime");
 const recipeContainer = document.querySelector(".recipe");
 const timeout = function(s) {
@@ -552,21 +550,12 @@ const timeout = function(s) {
 };
 // https://forkify-api.herokuapp.com/v2
 ///////////////////////////////////////
-const renderSpinner = function(parentEl) {
-    const markup = `<div class="spinner">
-  <svg>
-    <use href="${(0, _iconsSvgDefault.default)}#icon-loader"></use>
-  </svg>
-</div>`;
-    parentEl.innerHTML = "";
-    parentEl.insertAdjacentHTML("afterbegin", markup);
-};
 const controlRecipes = async function() {
     try {
         const id = window.location.hash.slice(1);
         console.log(id);
         if (!id) return;
-        renderSpinner(recipeContainer);
+        (0, _recipeViewJsDefault.default).renderSpinner();
         // 1) Loading recipe
         await _modelJs.loadRecipe(id);
         // 2) Rendering recipe
@@ -581,7 +570,7 @@ const controlRecipes = async function() {
     "load"
 ].forEach((ev)=>window.addEventListener(ev, controlRecipes));
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","core-js/modules/web.immediate.js":"49tUX","regenerator-runtime/runtime":"dXNgZ","./model.js":"Y4A21","./views/recipeView.js":"l60JC","../img/icons.svg":"cMpiy"}],"gkKU3":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","core-js/modules/web.immediate.js":"49tUX","regenerator-runtime/runtime":"dXNgZ","./model.js":"Y4A21","./views/recipeView.js":"l60JC"}],"gkKU3":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -2754,9 +2743,6 @@ Fraction.primeFactors = function(n) {
 };
 module.exports.Fraction = Fraction;
 
-},{}],"cMpiy":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("hWUTQ") + "icons.21bad73c.svg" + "?" + Date.now();
-
-},{"./helpers/bundle-url":"lgJ39"}]},["fA0o9","aenu9"], "aenu9", "parcelRequire3a11")
+},{}]},["fA0o9","aenu9"], "aenu9", "parcelRequire3a11")
 
 //# sourceMappingURL=index.e37f48ea.js.map
