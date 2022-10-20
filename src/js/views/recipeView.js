@@ -25,7 +25,7 @@ class RecipeView {
     </svg>
   </div>`;
     this.#clear();
-    this.#parentEl.insertAdjacentHTML('afterbegin', markup);
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
   renderError(message = this.#errorMessage) {
@@ -39,7 +39,7 @@ class RecipeView {
   </div>`;
 
     this.#clear();
-    this.#parentEl.insertAdjacentHTML('afterbegin', markup);
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
   renderMessage(message = this.#message) {
@@ -53,7 +53,7 @@ class RecipeView {
   </div>`;
 
     this.#clear();
-    this.#parentEl.insertAdjacentHTML('afterbegin', markup);
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
   addHandlerRender(handler) {
@@ -117,7 +117,7 @@ class RecipeView {
 
   <div class="recipe__ingredients">
     <h2 class="heading--2">Recipe ingredients</h2>
-    < class="recipe__ingredient-list">
+    <class="recipe__ingredient-list">
 ${this.#data.ingredients.map(this.#generateMarkupIngredient).join('')}
 </div>
 
@@ -148,9 +148,7 @@ ${this.#data.ingredients.map(this.#generateMarkupIngredient).join('')}
                     <use href="src/img/icons.svg#icon-check"></use>
                   </svg>
                   <div class="recipe__quantity">${
-                    ing.quantity
-                      ? new Fraction.Fraction(ing.quantity).toString()
-                      : ''
+                    ing.quantity ? new Fraction(ing.quantity).toString() : ''
                   }</div>
                   <div class="recipe__description">
                     <span class="recipe__unit">${ing.unit}</span>
